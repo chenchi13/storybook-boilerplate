@@ -5,9 +5,10 @@ import styles from './index.css';
 export default class Card extends React.Component {
   render() {
     return (
-      <div>
-        <img src={this.props.imgUrl } />
-        <div>
+      <div className={styles.card}>
+        <img src={this.props.imgUrl } className={styles.image} />
+        
+        <div className={styles.container}>
           <h4>
             {this.props.name}
           </h4>

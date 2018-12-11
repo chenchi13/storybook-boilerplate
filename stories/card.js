@@ -10,8 +10,8 @@ const cardStory = storiesOf('Card', module);
 cardStory.add('simple', () => (
   <Card
     imgUrl="https://images.punkapi.com/v2/keg.png"
-    name="pivo pivo"
-    tagline="Naše pivo">
+    name="Pivo Pivo"
+    tagline="Naše najbolje domaće pivo.">
   </Card>
 ));
 

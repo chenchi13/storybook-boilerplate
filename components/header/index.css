@@ -1,9 +1,11 @@
-.card{
-    max-width: 250px;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+.header {
+    height: 180px;
+    font-size: 60px;
+    margin: auto;
+    width: 100%;
+    padding: 0px;
+    background-color: red;
+    position: relative;
     text-align: center;
-}
-
-.container{
-    padding: 0.2;
-}
+  }
+  

@@ -1,9 +1,23 @@
-.card{
-    max-width: 250px;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-    text-align: center;
+.card {
+    background-color: transparent;
+    border-style: solid;
+    border-color: silver;
+    width: 22%;
+    margin: 0px 10px 10px 10px;
+    border-radius: 5px;
+    float: left;
+    min-height: 370px;
+    min-width: 250px;
 }
 
-.container{
-    padding: 0.2;
+.image
+{ 
+    max-width: 200px;
+    max-height: 200px;
+    padding: 5px;
+    padding-left: 45px;
 }
+
+.container {
+    padding: 2px 16px;
+  }
