@@ -32,12 +32,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DavidAbram/storybook-project.git"
+    "url": "git+https://github.com/chenchi13/storybook-project.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DavidAbram/storybook-project/issues"
+    "url": "https://github.com/chenchi13/storybook-project/issues"
   },
-  "homepage": "https://github.com/DavidAbram/storybook-project#readme"
+  "homepage": "https://github.com/chenchi13/storybook-project#readme"
 }
