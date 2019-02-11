@@ -4,10 +4,12 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "file-loader": "^3.0.1",
     "prop-types": "^15.6.1",
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
-    "react-router-redux": "^5.0.0-alpha.9"
+    "react-router-redux": "^5.0.0-alpha.9",
+    "url-loader": "^1.1.2"
   },
   "devDependencies": {
     "@storybook/react": "^3.4.2",
@@ -24,7 +26,9 @@
     "eslint-plugin-react": "^7.8.2",
     "glob": "^7.1.2",
     "react-hot-loader": "^4.2.0",
-    "style-loader": "^0.21.0"
+    "style-loader": "^0.21.0",
+    "file-loader": "^3.0.1",
+    "url-loader": "^1.1.2"
   },
   "scripts": {
     "storybook": "start-storybook -p 9001 -c .storybook",

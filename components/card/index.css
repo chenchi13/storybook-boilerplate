@@ -16,9 +16,26 @@
     max-height: 200px;
     padding: 5px;
     padding-left: 45px;
-    padding-top: 25px;
+    padding-top: 25px!important;
 }
 
 .container {
     padding: 2px 16px;
   }
+
+
+.header{
+    width: 15%;
+    float: right;
+    margin-top: 15px;
+}
+
+.icon {    
+    width: 24px;
+    height: 24px; 
+    max-width: 24px;
+    max-height: 24px; 
+    text-align: center; 
+    cursor: pointer;
+    padding: 5px;
+}
