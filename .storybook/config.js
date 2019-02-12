@@ -7,6 +7,7 @@ function loadStories() {
   require('../stories/footer.js');
   require('../stories/main.js');
   require('../stories/navigation.js');
+  require('../stories/popup.js');
 }
 
 configure(loadStories, module);

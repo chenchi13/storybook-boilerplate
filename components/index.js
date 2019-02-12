@@ -5,3 +5,4 @@ export Footer from './footer';
 export Header from './header';
 export Main from './main';
 export Navigation from './navigation';
+export Popup from './popup';

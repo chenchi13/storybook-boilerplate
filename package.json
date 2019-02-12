@@ -36,12 +36,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chenchi13/storybook-project.git"
+    "url": "git+https://github.com/chenchi13/storybook-boilerplate.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/chenchi13/storybook-project/issues"
+    "url": "https://github.com/chenchi13/storybook-boilerplate/issues"
   },
-  "homepage": "https://github.com/chenchi13/storybook-project#readme"
+  "homepage": "https://github.com/chenchi13/storybook-boilerplate#readme"
 }
